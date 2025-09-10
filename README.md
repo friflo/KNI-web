@@ -1,5 +1,6 @@
 
 Files generated with [KNI](https://github.com/kniEngine/kni) wasm template using Visual Studio 2022.
+- Removed dependency `nkast.Xna.Framework.Content.Pipeline.Builder` (MGCB.exe) to avoid build issues (e.g. run on Linux)
 
 # Run WASM build
 
